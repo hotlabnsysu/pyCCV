@@ -1,6 +1,6 @@
 # pyCCV
 
-PIV (Particle Image Velocimetry) 分析工具，以 Python + PySide6-Essentials 重新實作 MATLAB MPIVlab 1.14 的核心功能。
+PIV (Particle Image Velocimetry) 分析工具
 
 ## 功能
 
