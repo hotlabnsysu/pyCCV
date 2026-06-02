@@ -1,0 +1,21 @@
+# pyCCV — Python PIV Analysis Tool
+# Python 3.10 / 3.11 / 3.12
+
+# UI Framework
+PySide6-Essentials>=6.6.0
+
+# Numerical & Scientific
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Image I/O
+Pillow>=10.2.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# System Utilities
+psutil>=5.9.0
+
+# Development / Testing
+pytest>=7.0.0
